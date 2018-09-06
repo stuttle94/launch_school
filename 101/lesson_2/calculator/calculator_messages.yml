@@ -1,0 +1,19 @@
+# calculator_messages.yml
+
+en:
+  welcome: 'Welcome to Calculator! Enter your name:'
+  valid_name: 'Make sure to use a valid name.'
+  greet: 'Hello'
+  add: 'Adding'
+  sub: 'Subtracting'
+  mult: 'Multiplying'
+  div: 'Dividing'
+  first_num: "What's the first number?"
+  second_num: "What's the second number?"
+  valid_num: "That's not a valid number."
+  operator_prompt: What operation would you like to perform? 1) add 2) subtract 3) multiply 4) divide
+  valid_op: 'Must choose 1, 2, 3, or 4.'
+  two_nums: 'the two numbers...'
+  result_is: "The result is"
+  another: 'Do you want to perform another calculation? (Y to calculate again)'
+  thank_you: 'Thank you for using the calculator, goodbye.'
